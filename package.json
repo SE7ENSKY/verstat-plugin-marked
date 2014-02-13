@@ -1,0 +1,7 @@
+{
+  "name": "verstat-plugin-marked",
+  "version": "1.0.0",
+  "dependencies": {
+    "marked": "~0.3.1"
+  }
+}
